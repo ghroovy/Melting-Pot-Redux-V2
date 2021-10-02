@@ -1,0 +1,31 @@
+
+state={
+	id=481
+	name="STATE_481"
+
+	history={
+		owner = SIN
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+			8057 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = MEX
+		add_core_of = SIN
+		victory_points = {
+			7921 10 
+		}
+
+	}
+
+	provinces={
+		1945 4908 4946 4977 7921 8057 10871 10895 
+	}
+	manpower=1255094
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

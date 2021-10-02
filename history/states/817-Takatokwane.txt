@@ -1,0 +1,16 @@
+state={
+	id=817
+	name="STATE_817"
+	
+	history={
+		owner = TAK
+		add_core_of = TAK
+	}
+
+	provinces={
+		12963 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

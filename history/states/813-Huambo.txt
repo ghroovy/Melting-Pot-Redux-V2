@@ -1,0 +1,17 @@
+
+state={
+	id=813
+	name="STATE_813"
+	
+	history={
+		owner = ANG
+		add_core_of = ANG
+	}
+	
+	provinces={
+		5158 10966 12958 12981 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

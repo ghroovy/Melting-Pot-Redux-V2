@@ -1,0 +1,30 @@
+
+state={
+	id=483
+	name="STATE_483"
+
+	history={
+		owner = CNG
+		buildings = {
+			infrastructure = 3
+			4908 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = MEX
+		add_core_of = CNG
+		victory_points = {
+			10765 5 
+		}
+
+	}
+
+	provinces={
+		2069 5071 8012 8033 10765 10848 12833 13214 
+	}
+	manpower=303987
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

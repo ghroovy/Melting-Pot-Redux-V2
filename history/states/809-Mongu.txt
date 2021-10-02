@@ -1,0 +1,16 @@
+state={
+	id=809
+	name="STATE_809"
+	
+	history={
+		owner = UNI
+		add_core_of = UNI
+	}
+	
+	provinces={
+		10538 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=rural
+}
