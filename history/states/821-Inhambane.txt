@@ -1,0 +1,16 @@
+state={
+	id=821
+	name="STATE_821"
+	
+	history={
+		owner = INH
+		add_core_of = INH
+	}
+	
+	provinces={
+		2193 5177 5212 12935 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

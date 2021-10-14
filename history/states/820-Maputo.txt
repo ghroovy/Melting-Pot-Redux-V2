@@ -1,0 +1,16 @@
+state={
+	id=820
+	name="STATE_820"
+	
+	history={
+		owner = SAF
+		add_core_of = SAF
+	}
+	
+	provinces={
+		8245 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

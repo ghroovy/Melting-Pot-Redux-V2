@@ -1,0 +1,17 @@
+
+state={
+	id=818
+	name="STATE_818"
+	
+	history={
+		owner = KAL
+		add_core_of = KAL
+	}
+	
+	provinces={
+		697 1874 7872 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

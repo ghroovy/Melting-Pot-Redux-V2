@@ -63,7 +63,7 @@ set_popularities = {
 	neutrality = 30
 }
 
-create_country_leader = 
+create_country_leader = {
 	name = "Ismail Guelleh"
 	picture = "DJI_Ismaïl_Guelleh.dds"
 	expire = "2020.1.1"
