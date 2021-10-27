@@ -1,0 +1,19 @@
+
+state={
+	id=841
+	name="STATE_841"
+
+	history={
+		owner = PAL
+		add_core_of = PAL
+		add_core_of = ISR
+
+	}
+
+	provinces={
+		1 1086 7107 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

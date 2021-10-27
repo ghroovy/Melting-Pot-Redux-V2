@@ -1,0 +1,18 @@
+state={
+	id=850
+	name="STATE_850"
+	
+	history={
+		owner = SUC
+		add_core_of = SUC
+		add_core_of = BRA
+
+	}
+	
+	provinces={
+		12965 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

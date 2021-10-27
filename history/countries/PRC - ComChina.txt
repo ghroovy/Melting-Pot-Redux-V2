@@ -48,13 +48,13 @@ if = {
 add_opinion_modifier = { target = CHI modifier = hostile_status }
 
 create_country_leader = {
-	name = "Mao Zedong"
-	desc = "POLITICS_MAO_ZEDONG_DESC"
-	picture = "GFX_portrait_prc_mao_zedong"
-	expire = "1965.1.1"
+	name = "Jiang Zemin"
+	desc = "POLITICS_JIANG_ZEMIN_DESC"
+	picture = "PRC_Jiang_Zemin.dds"
+	expire = "2020.1.1"
 	ideology = marxism
 	traits = {
-		cornered_fox
+		#
 	}
 }
 

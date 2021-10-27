@@ -100,8 +100,8 @@ create_country_leader = {
 create_country_leader = {
 	name = "Saddam Hussein"
 	desc = ""
-	picture = "GFX_portrait_iraq_rashid_al_gaylani"
-	expire = "1965.1.1"
+	picture = "IRQ_Saddam_Hussein.dds"
+	expire = "2020.1.1"
 	ideology = fascism_ideology
 	traits = {
 		#
@@ -116,29 +116,5 @@ create_country_leader = {
 	ideology = leninism
 	traits = {
 		#
-	}
-}
-
-1939.1.1 = {
-	set_politics = {
-		ruling_party = neutrality
-		last_election = "1936.1.1"
-		election_frequency = 48
-		elections_allowed = no
-	}
-	set_popularities = {
-		fascism = 30
-		neutrality = 70
-	}
-
-	create_country_leader = {
-		name = "Faisal II"
-		desc = "POLITICS_FAISAL_II_DESC"
-		picture = "gfx/leaders/JOR/Portrait_Arabia_Generic_land_1.dds"
-		expire = "1965.1.1"
-		ideology = despotism
-		traits = {
-			#
-		}
 	}
 }

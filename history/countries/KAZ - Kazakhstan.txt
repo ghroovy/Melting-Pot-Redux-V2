@@ -60,9 +60,16 @@ if = {
 	}
 }
 
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
 set_popularities = {
-	democratic = 60
-	communism = 40
+	neutraltiy = 70
+	democratic = 30
 }
 
 create_country_leader = {
@@ -77,16 +84,12 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Ilyas Zhansugurov"
+	name = "Nursultan Nazarbayev"
 	desc = ""
-	picture = "Portrait_KAZ_Ilyas_Zhansugurov.dds"
+	picture = "KAZ_Nursultan_Nazarbayev.dds"
 	expire = "1953.3.1"
-	ideology = conservatism
+	ideology = despotism
 	traits = {
 		
 	}
 }
-
-
-
-

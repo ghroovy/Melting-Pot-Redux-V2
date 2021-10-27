@@ -62,11 +62,11 @@ set_politics = {
 	ruling_party = democratic
 	last_election = "1936.1.1"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
 	democratic = 80
-	communism = 20
+	neutrality = 20
 }
 
 create_country_leader = {
