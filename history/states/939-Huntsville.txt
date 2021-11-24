@@ -1,0 +1,18 @@
+
+state={
+	id=939
+	name="STATE_939"
+
+	history={
+		owner = USA
+		add_core_of = USA
+
+	}
+
+	provinces={
+		1587 4594 5059 10192 12735 12803 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+}

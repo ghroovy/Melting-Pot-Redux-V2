@@ -1,0 +1,18 @@
+
+state={
+	id=925
+	name="STATE_925"
+
+	history={
+		owner = USA
+		add_core_of = USA
+
+	}
+
+	provinces={
+		733 3712 3715 3732 9675 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=city
+}

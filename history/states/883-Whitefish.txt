@@ -1,0 +1,18 @@
+
+state={
+	id=883
+	name="STATE_883"
+
+	history={
+		owner = USA
+		add_core_of = USA
+
+	}
+
+	provinces={
+		1854 1857 7779 11712 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

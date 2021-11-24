@@ -1,0 +1,18 @@
+
+state={
+	id=887
+	name="STATE_887"
+
+	history={
+		owner = USA
+		add_core_of = USA
+
+	}
+
+	provinces={
+		941 1651 4518 4657 7667 9911 11763 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,4 +1,4 @@
-﻿capital = 110
+﻿capital = 854
 
 oob = "NOR_1936"
 if = {
@@ -132,8 +132,14 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 99
 	communism = 1
+	radical_socialist = 12
+	social_democratic = 25
+	liberal_democratic = 11
+	democratic = 43
+	neutrality = 7
+	fascism = 1
+	chirkovism = 0
 }
 
 create_country_leader = {

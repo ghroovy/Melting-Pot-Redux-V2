@@ -1,0 +1,21 @@
+
+state={
+	id=854
+	name="STATE_854"
+
+	history={
+		owner = NOR
+		add_core_of = NOR
+		victory_points = {
+			6115 15 
+		}
+
+	}
+
+	provinces={
+		14 3007 3171 6115 11151 11184 
+	}
+	manpower=788464
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

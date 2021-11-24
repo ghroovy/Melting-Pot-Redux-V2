@@ -1,0 +1,18 @@
+
+state={
+	id=856
+	name="STATE_856"
+
+	history={
+		owner = NOR
+		add_core_of = NOR
+
+	}
+
+	provinces={
+		27 144 3059 6080 9103 9204 11037 
+	}
+	manpower=241944
+	buildings_max_level_factor=1.000
+	state_category=city
+}

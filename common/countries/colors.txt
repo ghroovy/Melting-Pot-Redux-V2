@@ -903,3 +903,7 @@ MAD = {
 	color = rgb { 180 195 130 }
 	color_ui = rgb { 180 195 130 }
 }
+ZZX = {
+	color = rgb { 0 0 0 }
+	color_ui = rgb { 0 0 0 }
+}

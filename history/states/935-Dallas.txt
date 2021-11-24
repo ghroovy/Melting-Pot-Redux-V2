@@ -1,0 +1,18 @@
+
+state={
+	id=935
+	name="STATE_935"
+
+	history={
+		owner = USA
+		add_core_of = USA
+
+	}
+
+	provinces={
+		2082 3960 4577 5001 5085 6968 9829 9920 10778 10861 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

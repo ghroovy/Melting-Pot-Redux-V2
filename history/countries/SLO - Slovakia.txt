@@ -59,15 +59,15 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = democratic
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 5
-	fascism = 90
-	communism = 5
+	neutrality = 5
+	democratic = 90
+	fascism = 5
 }
 
 create_country_leader = {
