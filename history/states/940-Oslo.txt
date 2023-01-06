@@ -1,0 +1,19 @@
+state={
+	id=940
+	
+	history={
+		owner = NOR
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = NOR
+	}
+	
+	name="STATE_940"
+	provinces={
+		14 27 100 144 3007 3021 3059 3094 3171 6072 6080 6115 6151 6184 9032 9036 9103 9135 9157 9174 9204 11028 11029 11037 11078 11135 11151 11184 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

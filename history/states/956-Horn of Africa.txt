@@ -1,0 +1,19 @@
+state={
+	id=956
+	name="STATE_956"
+	
+	history={
+		owner = SOM
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SOM
+	}
+	
+	provinces={
+		1966 10891 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,19 @@
+state={
+	id=947
+	name="STATE_947"
+	
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = USA
+	}
+	
+	provinces={
+		1756 4668 4865 10582 10651 10662 12573 13153 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
