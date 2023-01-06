@@ -1,9 +1,14 @@
-version="1"
+version="latest"
 tags={
 	"Alternative History"
 	"Map"
+	"Military"
+	"National Focuses"
+	"Technologies"
+	"Utilities"
 	"Gameplay"
 	"Ideologies"
+	"Events"
 }
-name="IMP Redux"
-supported_version="1.10.8"
+name="Melting Pot: Redux"
+supported_version="1.12.7"
